@@ -1,0 +1,23 @@
+Total number of users is: 3
+Total number of tasks is: 7
+
+Statistics for user 'admin'
+Total tasks: 4
+Percentage of total tasks: 57.14%
+Percentage of own tasks completed: 75.0%
+Percentage of own tasks uncompleted: 25.0%
+Percentage of own tasks uncompleted and overdue: 25.0%
+
+Statistics for user 'ben'
+Total tasks: 3
+Percentage of total tasks: 42.86%
+Percentage of own tasks completed: 0%
+Percentage of own tasks uncompleted: 100.0%
+Percentage of own tasks uncompleted and overdue: 66.67%
+
+Statistics for user 'parker'
+Total tasks: 0
+Percentage of total tasks: 0.0%
+Percentage of own tasks completed: 0%
+Percentage of own tasks uncompleted: 0%
+Percentage of own tasks uncompleted and overdue: 0%

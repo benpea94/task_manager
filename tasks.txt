@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 21 Jan 2023, No
+ben, add some stuff, add some stuff, 13 Jan 2023, 23 Jan 2034, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 1 Feb 2023, Yes
+ben, task manager capstone challenge, create a task manager in python, 02 Jan 2023, 8 Jan 2023, No
+admin, dishwasher unload, unload the dishwasher, 02 Jan 2023, 3 Jan 2023, Yes
+ben, take out bins, take out the bins, 13 Jan 2023, 13 Jan 2023, No
+admin, update code, update code for taskmanager.py, 13 Jan 2023, 25 Jan 2023, Yes
